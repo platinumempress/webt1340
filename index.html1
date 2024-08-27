@@ -10,9 +10,14 @@
 <body>
     <h1>Web Project Page</h1>
     <ul>
-        <li><a href="index.html/index.html" target="_blank">index.html</a></li>
+         <li><a href="Camping_Project_1/index.html1" target="_blank">Project_1</a></li>  
+        <li><a href="Regatta_Project_2/index.html1" target="_blank">Project_2</a></li>
+        <li><a href="Cafe-Logo_Project_3/index.html1" target="_blank">Project_3</a></li>
+        <li><a href="Juci-Labels_Project_4/index.html1" target="_blank">Project_4</a></li>
+        <li><a href="Studio/index.html1" target="_blank">Studio</a></li>
+        <li><a href="Final/index.html1" target="_blank">Final</a></li>
         <link rel="stylesheet" href="css/styles.css">
-        
+       
     </ul>
 
  </body>
