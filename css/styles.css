@@ -3,7 +3,80 @@ body {
 }
 
 #container {
-    background-color: ;
     width: 75%;
     margin: 20px auto;
 }
+header {
+    background-image: url(../images/Asset 2.png);
+    padding: 20px;
+    display: flex;
+    
+}
+
+header h1 {
+    font-size: 3em;
+    line-height: 110px;
+    padding: ;
+    color: black;
+    text-shadow: 1px 1px 1px maroon;
+}
+
+nav{
+    background-color: F2CE87;
+    padding: 5px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li { 
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    height: 30px;
+    width: 120px;
+    background-color: darkgreen;
+    padding: 10px; 
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+nav li a:hoover {
+    background-color: blanchedalmond;
+    
+}
+main{
+    padding: 30px;
+}
+
+main h2 {
+    text-align: center;
+}
+#gallery h3 {
+    text-align: center;
+}
+
+.png img {
+    width: 100%;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+hr {
+    width: 100%;
+    color: darkred;
+}
+
+
