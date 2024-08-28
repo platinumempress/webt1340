@@ -8,7 +8,7 @@ body {
     background-color: tan;
     width: 100%;
     
-}
+
 header {
     background-image: url('../images/Asset 2.png');
     width: 100%;
@@ -24,7 +24,7 @@ header h1 {
     text-align: center;
     text-shadow: 1px 1px 1px maroon;
 }
-
+}
 nav{
     background-color: goldenrod;
     padding: 5px;
