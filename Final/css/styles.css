@@ -1,15 +1,13 @@
-body {
-    background-color: whitesmoke;
-}
+
 
 #container {
     background-color: tan;
     width: 100%;
-    margin: 10px auto;
+    
 }
 header {
     background-image: url('../images/Asset 2.png');
-    padding: 20px;
+   
     display: flex;
     
 }
