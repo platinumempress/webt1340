@@ -13,7 +13,7 @@ header {
     background-image: url('../images/Asset 2.png');
     width: 100%;
     display: flex;
-    
+    text-align: center;
 }
 
 header h1 {
@@ -21,7 +21,7 @@ header h1 {
     line-height: 110px;
     /* padding: ; */
     color: black;
-    text-align: center;
+    
     text-shadow: 1px 1px 1px maroon;
 }
 }
