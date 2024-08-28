@@ -1,8 +1,9 @@
 body {
-    background-color: tan;
+    background-color: whitesmoke;
 }
 
 #container {
+    background-color: tan;
     width: 100%;
     margin: 20px auto;
 }
