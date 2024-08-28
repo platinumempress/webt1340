@@ -11,8 +11,6 @@ body {
 
 header {
     background-image: url('../images/Asset 2.png');
-    width: 100%;
-    
     display: flex;
     
 }
