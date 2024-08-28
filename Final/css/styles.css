@@ -58,7 +58,7 @@ nav li a:hover {
 }
 main{
     padding: 25px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 main h2 {
@@ -66,6 +66,10 @@ main h2 {
 }
 #gallery h2 {
     text-align: center;
+}
+
+.pics{
+    display: flex;
 }
 
 .pics img {
