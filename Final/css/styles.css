@@ -12,7 +12,7 @@ body {
 header {
     background-image: url('../images/Asset 2.png');
     display: flex;
-    width: auto;
+    width: 60%;
 }
 
 header h1 {
@@ -58,6 +58,7 @@ nav li a:hover {
 }
 main{
     padding: 25px;
+    background-color: white;
 }
 
 main h2 {
