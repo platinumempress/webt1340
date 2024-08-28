@@ -1,4 +1,8 @@
 
+body {
+        background-color: none;
+    }
+
 
 #container {
     background-color: tan;
@@ -7,7 +11,7 @@
 }
 header {
     background-image: url('../images/Asset 2.png');
-   
+    width: 100%;
     display: flex;
     
 }
