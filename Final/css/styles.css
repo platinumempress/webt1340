@@ -1,5 +1,5 @@
 body {
-    background-color: F5E0CD;
+    background-color: tan;
 }
 
 #container {
@@ -22,7 +22,7 @@ header h1 {
 }
 
 nav{
-    background-color: F2CE87;
+    background-color: goldenrod;
     padding: 5px;
     text-align: center;
 }
@@ -48,7 +48,7 @@ nav li a {
 
 }
 
-nav li a:hoover {
+nav li a:hover {
     background-color: blanchedalmond;
     
 }
