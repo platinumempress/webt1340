@@ -12,7 +12,7 @@ body {
 header {
     background-image: url('../images/Asset 2.png');
     display: flex;
-    
+    width: auto;
 }
 
 header h1 {
@@ -75,12 +75,12 @@ main h2 {
 footer {
     text-align: center;
     padding: 20px 0;
-    background-color: darkred;
+    
 }
 
 hr {
     width: 100%;
-    
+    background-color: darkred;
 }
 
 
