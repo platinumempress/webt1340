@@ -63,8 +63,8 @@ main h2 {
     text-align: center;
 }
 
-.png img {
-    width: 100%;
+.pics img {
+    width: 30%;
     margin: 10px;
     border-radius: 4px;
 }
